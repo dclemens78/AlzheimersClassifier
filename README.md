@@ -2,6 +2,8 @@
 
 This project uses machine learning to classify brain MRI images for early detection of Alzheimer's disease. It is designed to assist in medical diagnostics by identifying patterns associated with various stages of cognitive decline.
 
+Paste this link into your browser to view our website! http://52.20.223.247/index.html  (working as of June 2025)
+
 ## Project Overview
 
 Alzheimer’s Disease (AD) affects millions globally, and early detection is key to managing its progression. This project builds a model to classify MRI images into stages of Alzheimer's, using deep learning for pattern recognition.
